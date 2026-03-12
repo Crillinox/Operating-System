@@ -93,7 +93,7 @@ MAXMEM=4096
 
 ## License
 
-The kernel and bootloader are licensed under **GPL v3**.
+The kernel and bootloader are licensed under **GPL v2**.
 
 The compositor and desktop environment are closed source.
 
